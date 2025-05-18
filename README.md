@@ -29,3 +29,28 @@ We will cover following topics:
 
 - Assignment and Practice questions. 
 -  Interview questions
+
+## Week 2
+
+a.) We will deep dive into basic statistics that includes:
+- Understanding mean, median & mode.
+- Variance & standard deviation.
+- Correlation & Regression.
+- Outlier Detection & Z-score.
+
+b) Complete portfolio project and assignments. 
+d) Interview questions.
+
+## Week 3
+
+a) We will deep dive into building projects in PowerBI. We will build basic dashboard as shown in ![Student Performance Dashboard](https://github.com/user-attachments/assets/578d069f-c17c-4a47-acda-4e1866b2869a)
+
+## Week 4
+
+- We will learn power query and explore more on building portfolio projects in powerbi. ![Student Performance Dashboard](https://github.com/user-attachments/assets/913f4a43-5b56-427f-9a29-02439228181b)
+- Data Modelling ![Star schema](https://github.com/user-attachments/assets/07e820d3-5630-4096-8391-e8f2c83fdc92)
+- Portfolio Project. ![Portfolio Projects](https://github.com/user-attachments/assets/0ab16273-3673-4530-a793-e50bd8bc480e)
+
+
+
+
