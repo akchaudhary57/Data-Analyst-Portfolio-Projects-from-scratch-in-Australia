@@ -6,12 +6,12 @@
 
 We will cover following topics:
 
-a) Benefits and Limitations of Using Spreadsheets for Data Analysis.
-b) What is GitHub? Why Should We Use GitHub?
-c) What is Power BI? Why Should We Use Power BI? Who Uses Power BI?
-d) What is Python? Why Use Python for Data Analysis? Who Uses Python for Data Analysis?
-e) What is SQL? Why Should We Use SQL? Who Uses SQL?
-f) When to Use Python Over SQL?
+- a) Benefits and Limitations of Using Spreadsheets for Data Analysis.
+- b) What is GitHub? Why Should We Use GitHub?
+- c) What is Power BI? Why Should We Use Power BI? Who Uses Power BI?
+- d) What is Python? Why Use Python for Data Analysis? Who Uses Python for Data Analysis?
+- e) What is SQL? Why Should We Use SQL? Who Uses SQL?
+- f) When to Use Python Over SQL?
 
 ### Build a Budget Tracking Dashboard
 
