@@ -12,6 +12,7 @@ We will cover following topics:
 -  What is Python? Why Use Python for Data Analysis? Who Uses Python for Data Analysis?
 -  What is SQL? Why Should We Use SQL? Who Uses SQL?
 -  When to Use Python Over SQL?
+-  Interview questions
 
 ### Build a Budget Tracking Dashboard
 
@@ -27,4 +28,4 @@ We will cover following topics:
 - Build portifolio excel project by analyzing Australian Housing data. ![Protfolio Project](https://github.com/user-attachments/assets/04ec1dbd-e6a9-4f85-b90d-b2f1dd241b07)
 
 - Assignment and Practice questions. 
-
+-  Interview questions
